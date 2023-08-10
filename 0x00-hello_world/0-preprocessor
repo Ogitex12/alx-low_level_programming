@@ -1,2 +1,2 @@
 #!/bim/bash
-export CFILE=main.c
+export -E $CFILE -o c
