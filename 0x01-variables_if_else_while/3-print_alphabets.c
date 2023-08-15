@@ -19,8 +19,8 @@ int main(void)
 		}
 	while
 		(d <= 'Z') {
-			putchar(c);
-			c++;
+			putchar(C);
+			C++;
 		}
 	putchar('\n');
 	return (0);
